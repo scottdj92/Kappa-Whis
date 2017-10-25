@@ -1,0 +1,31 @@
+{
+  "name": "kappa-whis",
+  "version": "1.0.0",
+  "description": "A Whis Bot extension to track Twitch emote usage in a Discord channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottdj92/Kappa-Whis.git"
+  },
+  "keywords": [
+    "Discord",
+    "Kappa",
+    "Twitch"
+  ],
+  "author": "Scott Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottdj92/Kappa-Whis/issues"
+  },
+  "homepage": "https://github.com/scottdj92/Kappa-Whis#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "typescript": "^2.5.3"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
