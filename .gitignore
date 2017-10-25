@@ -58,6 +58,6 @@ typings/
 .env
 
 # compiled files
-**/**.js
-**/**.js.map
+**.js
+**.js.map
 
